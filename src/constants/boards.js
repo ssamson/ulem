@@ -1,45 +1,47 @@
 export const executiveCommittee = [
   {
     name: "Joseph D. Feaster Jr.",
-    job: "Chairman of the ULEM Board, President",
+    job: "Chairman of the ULEM Board, Of Counsel",
     organization: "McKenzie & Associates, P.C.",
   },
   {
     name: "Donnie Bedney III",
     job: "Chair of the ULEM Program Committee, Vice President, Chief of Staff",
-    organization: "Press Ganey"
+    organization: "Press Ganey",
   },
   {
     name: "Derek E. Brooks",
-    job: "Entrepreneur & Business Professional",
+    job: "Secretary of the ULEM Board, Entrepreneur & Business Professional",
     organization: "",
   },
   {
     name: "Petrina Cherry",
-    job: "Vice President",
+    job: "Chair of the ULEM Development Committee, Vice President",
     organization: "BMC Healthnet Plan/Well Sense Health Plan",
   },
   {
     name: "Vincent Loporchio",
-    job: "Chair of the ULEM Nominating Committee, Senior Vice President Corporate Communications,",
-    organization: "Fidelity Investments"
+    job:
+      "Chair of the ULEM Nominating Committee, Senior Vice President Corporate Communications,",
+    organization: "Fidelity Investments",
   },
   {
     name: "Joshua Schanck",
-    job: "Chair of the ULEM Strategic Planning Committee, District Manager - Boston MA",
-    organization: "Starbucks"
+    job:
+      "Chair of the ULEM Strategic Planning Committee, District Manager - Boston MA",
+    organization: "Starbucks",
   },
   {
     name: "Malik A. Smith",
-    job: "First Vice President",
+    job: "Treasurer of the ULEM Board, First Vice President",
     organization: "Private Wealth Advisor, Commons Capital Advisors",
   },
   {
     name: "Mark Walker",
-    job: "Sr. VP, Credit Product Manager",
+    job: "Vice Chairman of the ULEM Board, Sr. VP, Credit Product Manager",
     organization: "Citizens Bank",
   },
-]
+];
 
 export const membersOfTheBoard = [
   {
@@ -48,9 +50,14 @@ export const membersOfTheBoard = [
     organization: "Enterprise Holdings-Boston Group",
   },
   {
+    name: "Nikhil Goray",
+    job: "Principal (Partner)",
+    organization: "Deloitte Consulting",
+  },
+  {
     name: "Johnny Green Jr.",
     job: "VP of News Services",
-    organization: "CBS News"
+    organization: "CBS News",
   },
   {
     name: "Marian A. Green-Robinson",
@@ -58,26 +65,56 @@ export const membersOfTheBoard = [
     organization: "Eastern Bank",
   },
   {
+    name: "Jeffrey L. Hirsch",
+    job: "Attorney",
+    organization: "Hirsch Roberts Weinstein LLP",
+  },
+  {
     name: "Dorothea Jones",
     job: "Guild Secretary",
-    organization: "National Urban League"
+    organization: "National Urban League",
   },
   {
     name: "Ron Mayorga",
     job: "President - Northeast District",
-    organization: "UPS"
+    organization: "UPS",
   },
   {
-    name:"Deloris Pettis",
+    name: "Aisha Miller",
+    job: "Assistant Commissioner",
+    organization: "Inspectional Services Department of the City of Boston",
+  },
+  {
+    name: "Deloris Pettis",
     job: "Director of Internal Audit",
-    organization: "Boston College"
+    organization: "Boston College",
+  },
+  {
+    name: "Christopher Scranton",
+    job: "Director of Nonprofit & Government Partnerships",
+    organization: "Jobcase",
+  },
+  {
+    name: "Billy Shore",
+    job: "Founder and Executive Chair",
+    organization: "Share our Strength",
+  },
+  {
+    name: "Prasad Thottempudi",
+    job: "Managing Director",
+    organization: "Deloitte Consulting",
+  },
+  {
+    name: "Jacquetta Van Zandt",
+    job: "Vice President of Engagement",
+    organization: "The Partnership, Inc",
   },
   {
     name: "Rachelle Villarson",
     job: "Assistant Director of Personnel",
-    organization: "Suffolk County Sheriff's Department"
-  }
-]
+    organization: "Suffolk County Sheriff's Department",
+  },
+];
 
 export const boardChairsEmeritus = [
   {
@@ -88,98 +125,97 @@ export const boardChairsEmeritus = [
   {
     name: "Hon. Joyce London Alexander",
     job: "Chief U.S. Magistrate Judge",
-    organization: "United States District Courthouse"
+    organization: "United States District Courthouse",
   },
   {
     name: "Andrea Kershaw",
     job: "Regional Vice President",
-    organization: "Enterprise Rent-A Car"
+    organization: "Enterprise Rent-A Car",
   },
   {
     name: "Quincy L. Miller",
     job: "President",
-    organization: "Eastern Bank"
+    organization: "Eastern Bank",
   },
   {
     name: "Jeffrey Musman",
     job: "Managing Partner",
-    organization: "Seyfarth Shaw"
+    organization: "Seyfarth Shaw",
   },
   {
     name: "George A. Russell Jr.",
     job: "Executive Vice President",
-    organization: "State Street Corporation"
+    organization: "State Street Corporation",
   },
   {
     name: "Richard Taylor",
     job: "Proprietor",
-    organization: "Taylor Smith Properties"
-  }
-]
+    organization: "Taylor Smith Properties",
+  },
+];
 
 export const boardEmeritus = [
   {
     name: "Greg Almeida",
     job: "President",
-    organization: "Global View Communication, Inc."
+    organization: "Global View Communication, Inc.",
   },
   {
     name: "Gary Carroway",
     job: "Director of Business Development",
-    organization: "UPS"
+    organization: "UPS",
   },
   {
     name: "Brenda Cole",
     job: "VP of Marketplace Inclusion Development",
-    organization: "Harvard Pilgrim Health Care"
+    organization: "Harvard Pilgrim Health Care",
   },
   {
     name: "Bill Fenton",
     job: "Senior Vice President",
-    organization: "Bank of America"
+    organization: "Bank of America",
   },
   {
     name: "Jacqueline Gadsden",
     job: "VP of Diversity & Inclusion & Customer Experience",
-    organization: "Comcast - Greater Boston Area"
+    organization: "Comcast - Greater Boston Area",
   },
-  
-]
+];
 
 export const advisoryCouncil = [
   {
     name: "L. Kim Amisial",
     job: "President of The GUILD",
-    organization: "The Urban League of Eastern MA"
+    organization: "The Urban League of Eastern MA",
   },
   {
     name: "Scott Baker",
     job: "President",
-    organization: "SkyCom Courier"
+    organization: "SkyCom Courier",
   },
   {
     name: "Larry Dunham",
     job: "Director of Diversity and Multicultural Affairs",
-    organization: "Boston University/Dental School"
+    organization: "Boston University/Dental School",
   },
   {
     name: "David Gibbons",
     job: "Executive Director",
-    organization: "Massachusetts Convention Center Authority (MCCA)"
+    organization: "Massachusetts Convention Center Authority (MCCA)",
   },
   {
-    name:"Kristen Halbert",
+    name: "Kristen Halbert",
     job: "President of YPN",
-    organization: "The Urban League of Eastern MA"
+    organization: "The Urban League of Eastern MA",
   },
   {
     name: "Pam Kenn",
     job: "VP of Community, Alumni and Player Relations",
-    organization: "Boston Red Sox"
+    organization: "Boston Red Sox",
   },
   {
     name: "Lisa Timberlake",
     job: "Media Relations",
-    organization: "City of Boston"
-  }
-]
+    organization: "City of Boston",
+  },
+];
