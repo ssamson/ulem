@@ -196,7 +196,7 @@ export default class Navbar extends Component {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Jobs & Opportunities
+                  Jobs
                 </span>
                 <div className="dropdown-menu" onClick={this.collapse}>
                   <a
@@ -224,7 +224,7 @@ export default class Navbar extends Component {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  ULEM Store
+                  ULEM Gear
                 </a>
               </li>
               <li className="nav-item" onClick={this.collapse}>
