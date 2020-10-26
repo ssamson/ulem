@@ -158,36 +158,36 @@ export default class Navbar extends Component {
                   </div>
                 </div>
               </li>
-              <li className="nav-item" onClick={this.collapse}>
+              {/* <li className="nav-item" onClick={this.collapse}>
                 <Link className="nav-link" to="/marathon">
                   ULEM Marathon Team
                 </Link>
-              </li>
-              <li className="nav-item dropdown">
-                <span
+              </li> */}
+              {/* <li className="nav-item dropdown"> */}
+              {/* <span
                   className="nav-link dropdown-toggle"
                   data-toggle="dropdown"
                   role="button"
                   aria-haspopup="true"
                   aria-expanded="false"
-                >
-                  Centennial
-                </span>
-                <div className="dropdown-menu" onClick={this.collapse}>
+                > */}
+              {/* Centennial */}
+              {/* </span> */}
+              {/* <div className="dropdown-menu" onClick={this.collapse}>
                   <Link className="nav-link text-dark" to="/centennialIntro">
                     Celebration
                   </Link>
                   <Link className="nav-link text-dark" to="/centennial">
                     Milestone
                   </Link>
-                  {/* <Link
+                  <Link
                     className='nav-link text-dark'
                     to='/centennialMembership'
                   >
                     Centennial Membership
-                  </Link> */}
-                </div>
-              </li>
+                  </Link>
+                </div> */}
+              {/* </li> */}
               <li className="nav-item dropdown">
                 <span
                   className="nav-link dropdown-toggle"
