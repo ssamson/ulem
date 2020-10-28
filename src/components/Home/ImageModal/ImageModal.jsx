@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./ImageModal.module.css";
 
-import modalImg from "../../../assets/image/FridayThe1619Project.png";
+import modalImg from "../../../assets/image/The1619Project.png";
 // import modalImg from "../../../download/OctNewsletter.pdf";
 
 const ImageModal = ({ id, title }) => {
