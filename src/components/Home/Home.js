@@ -8,7 +8,7 @@ import TopSlides from "./TopSlides";
 import EventSlides from "./EventSlides";
 import Instagram from "./Instagram";
 import Twitter from "./Twitter";
-// import ImageModal from "../Home/ImageModal/ImageModal";
+import ImageModal from "../Home/ImageModal/ImageModal";
 // Image
 
 export default class Home extends Component {
@@ -125,7 +125,7 @@ export default class Home extends Component {
             </div>
           </div>
         </div>
-        {/* <ImageModal id="home" /> */}
+        <ImageModal id="home" />
       </>
     );
   }

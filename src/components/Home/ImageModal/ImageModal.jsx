@@ -2,7 +2,7 @@ import React from "react";
 
 import styles from "./ImageModal.module.css";
 
-import modalImg from "../../../assets/image/Monday1619SpeakerEvent.png";
+import modalImg from "../../../assets/image/Final18thNov12.jpg";
 
 // import modalImg from "../../../assets/image/OctLOL.jpg";
 // import modalImg from "../../../download/OctNewsletter.pdf";
@@ -34,16 +34,13 @@ const ImageModal = ({ id, title }) => {
             </button>
           </div>
           <div>
-            <a
+            {/* <a
               href="http://bit.ly/UL1619Project"
-              // href="http://bit.ly/LOL4UL"
-              // href="https://bit.ly/ULEM1619"
-              // href="https://myemail.constantcontact.com/ULEM-October-Update.html?soid=1102455592959&aid=mEevnvr5xt4"
               target="_blank"
               rel="noopener noreferrer"
-            >
-              <img className={styles.modalImage} src={modalImg} alt="modal" />
-            </a>
+            > */}
+            <img className={styles.modalImage} src={modalImg} alt="modal" />
+            {/* </a> */}
           </div>
         </div>
       </div>
